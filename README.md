@@ -1,2 +1,1 @@
-# eatthebillionaires.github.io
-serve static files for my .pro "API"
+There is nothing here for you to see
